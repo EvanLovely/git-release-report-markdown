@@ -1,6 +1,6 @@
 {
   "name": "git-release-report-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a Git Release Report in Markdown by comparing two branches and showing all non-merge commits.",
   "main": "git-release-report-markdown.js",
   "scripts": {
