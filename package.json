@@ -1,0 +1,26 @@
+{
+  "name": "git-release-report-markdown",
+  "version": "1.0.0",
+  "description": "Generate a Git Release Report in Markdown by comparing two branches and showing all non-merge commits.",
+  "main": "git-release-report-markdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "git-release-report-markdown.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanLovely/git-release-report-markdown.git"
+  },
+  "keywords": [
+    "git",
+    "report",
+    "reports",
+    "markdown"
+  ],
+  "author": "Evan Lovely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanLovely/git-release-report-markdown/issues"
+  },
+  "homepage": "https://github.com/EvanLovely/git-release-report-markdown#readme"
+}
